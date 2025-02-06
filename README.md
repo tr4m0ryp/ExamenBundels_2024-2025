@@ -17,7 +17,7 @@ Volg de onderstaande stappen, als het je niet lukt is het echt een skillissue:
 ![image](https://github.com/user-attachments/assets/32219e2d-b2cc-4ac8-9b11-6b94d1e36b4e)
 
 ## ⚠️
-- **Deadline**: Zorg ervoor dat je de bestanden **voor 7 februari** hebt gedownload. Zal de repo namelijk op private knallen, heb namelijk geen zin in copyright claims.
+- **Deadline**: Zorg ervoor dat je de bestanden **voor 15 februari** hebt gedownload. Zal de repo namelijk op private knallen, heb namelijk geen zin in copyright claims.
 - **Geen ondersteuning**: Als het niet lukt om te downloaden, ligt dat bij jou. Volg de instructies goed.
 
 ---
